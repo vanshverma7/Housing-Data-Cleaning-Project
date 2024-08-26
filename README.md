@@ -42,3 +42,6 @@ This project demonstrates the process of preparing a raw dataset for analysis, e
 
 - Always back up your data before running deletion or modification queries.
 - Adjust column names and table structures as needed based on your specific dataset.
+
+## Data
+- Raw Data can be obtained from 
