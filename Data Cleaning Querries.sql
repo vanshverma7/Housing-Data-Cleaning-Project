@@ -121,10 +121,10 @@ commit
 
 update NashvilleHousing
 set SoldAsVacant = case
-						when SoldAsVacant = 'N' then 'No'
-						when SoldAsVacant = 'Y' then 'Yes'
-						else SoldAsVacant
-				   end
+			when SoldAsVacant = 'N' then 'No'
+			when SoldAsVacant = 'Y' then 'Yes'
+			else SoldAsVacant
+		   end
 
 ------------------------------------------------------------------------------
 
