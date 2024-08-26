@@ -44,4 +44,4 @@ This project demonstrates the process of preparing a raw dataset for analysis, e
 - Adjust column names and table structures as needed based on your specific dataset.
 
 ## Data
-- Raw Data can be obtained from Nashville `Housing Data (RAW DATA)` file which is in xlsx
+- Raw Data can be obtained from Nashville `Housing Data (RAW DATA)` file.
