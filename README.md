@@ -36,7 +36,7 @@ This project demonstrates the process of preparing a raw dataset for analysis, e
 ## Usage
 
 1. Run the scripts sequentially to apply the transformations and clean the dataset.
-2. Ensure to execute the `DELETE` and `DROP` commands on a duplicate or test dataset to avoid data loss.
+2. Ensure to execute the `DELETE` and `DROP` commands on a duplicate or test dataset (`Views`) to avoid data loss.
 
 ## Notes
 
