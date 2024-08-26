@@ -11,13 +11,13 @@ This project involves cleaning and transforming the Nashville Housing dataset us
    Ensure all property addresses are complete by cross-referencing records within the dataset.
 
 3. **Split Address Fields**  
-   Break down property and owner addresses into separate columns for Address, City, and State for better data organization.
+   Break down property and owner addresses into separate columns for Address, City, and State for better data organization. Using `Substring` & `Charindex` & `Parsename`
 
 4. **Update Field Values**  
-   Convert binary indicators (e.g., 'Y'/'N') into more readable formats (e.g., 'Yes'/'No') to improve clarity.
+   Convert binary indicators (e.g., 'Y'/'N') into more readable formats (e.g., 'Yes'/'No') to improve clarity. Using `Case Expressions` & `Update` command.
 
 5. **Eliminate Duplicates**  
-   Identify and remove duplicate rows to ensure data integrity and accuracy.
+   Identify and remove duplicate rows to ensure data integrity and accuracy. Using `CTE` & `Window Functions`
 
 6. **Drop Unnecessary Columns**  
    Clean up the dataset by removing columns that are no longer needed for analysis.
