@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves cleaning and transforming the Nashville Housing dataset using SQL. The main objectives are to:
+This project involves implementing an ETL process to clean and transform the Nashville Housing dataset using SQL.  The main objectives are to:
 
 1. **Standardize Date Formats**  
    Convert and standardize the format of sale dates for consistency.
